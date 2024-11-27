@@ -1,5 +1,3 @@
-Here is the `README.md` content you requested:
-
 ```markdown
 # **Go Concurrent API Fetcher**
 
