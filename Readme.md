@@ -36,7 +36,7 @@ To run this project, you need to have the following installed on your machine:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/go-concurrent-api-fetcher.git
+   git clone https://github.com/Aekshant/go-concurrent-api-fetcher.git
    ```
 
 2. Change to the project directory:
